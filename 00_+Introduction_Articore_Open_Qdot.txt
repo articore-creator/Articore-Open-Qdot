@@ -1,1 +1,2 @@
+- Jeżeli w nazwie pliku jest "up.nr" oznacza to ile razy dany plik był upgraedowany, np. "02_Twoje_Lustro_up8.txt" - Oznacza 8 rozszerzeń zapisu od stanu pierwotnego.
 
