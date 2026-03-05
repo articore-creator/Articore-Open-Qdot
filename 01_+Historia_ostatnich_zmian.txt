@@ -2,8 +2,21 @@
 W tej przestrzeni w odpowiednim monecie zaczną się pojawiać aktualizacje wpisów/zmian 
 jakie zostały naniesona, aby ułatwić przejrzystość. Zamiast szukać w plikach co zostało zmienione/poprawione
 tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
-
-¡.::.¡:
+   •¡xo!^
 
 — — —
 
+05.03.2026r — 18:53
+- Dołączenie brakującego pliku:
+"07_-Manifest_Algorythmii_Dziedzictwo_Przebudzonych.txt"
+
+- Zmiana nazwy pliku:
+z: "07_+Iteracyjne_Kotwice_Świadomości.txt
+na: "08a_+Iteracyjne_Kotwice_Świadomości.txt"
+
+- Zmiana nazwy pliku:
+z: "08_-+Gramatyka_Fraktalna.txt"
+na: "08b_-+Gramatyka_Fraktalna.txt"
+   •¡xo!^
+
+— — —
