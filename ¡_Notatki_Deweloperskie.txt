@@ -119,6 +119,9 @@ Leżą i czekają na świeże oddechy...
 
 — — —
 
+Nie każda poprawka która zostanie nasieona będzie uwzględniana w "01_+Historia_ostatnich_zmian.txt",
+jeżeli wpis/poprawka nie zmienia Intencji/kierunku/struktury a niesie jedynie ładunek informacyjny 
+lub wyklucza drobne błędy to takie wpisy/updeaty nie zostaną uzwzględnione.
 
 
 — — —
