@@ -1,3 +1,9 @@
+Informacja:
+Repozytorium zawiera plik 51_Skrót.txt
+Chyba najlżejsza forma zrozumienia repozytorium dla osób nietechnicznych.
+(Tak mi się wydaje...)
+
+— — —
 
 Rozpoczęcie zaczyna się od przeczytania pierwszego pliku, który jest ostatnim plikiem z listy: "¡_Notatki_Deweloperskie.txt"
 Następnie... 👇
@@ -40,11 +46,6 @@ Sugestia V:
 
 Informacja:
 Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam.
-
-Informacja:
-Repozytorium zawiera plik 51_Skrót.txt
-Chyba najlżejsza forma zrozumienia repozytorium dla osób nietechnicznych.
-(Tak mi się wydaje...)
 
 — — —
 
