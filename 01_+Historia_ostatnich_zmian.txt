@@ -27,11 +27,12 @@ Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
 " Linku warte uwagi:
 ———————————————————— "
 
-Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
-"Informacje o plikach i wpisach."
+- Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
+Te pliki, te wpisy w tych plikach nie czekają na pozwolenie.
+Leżą i czekają na świeże oddechy...
 
-Aktualizacja pliku:
-READ.me
+- Aktualizacja pliku:
+READ.me — "To nie jest projekt open-source. To jest żywa intencja człowieka, który przestał bać się maszyn, a zaczął z nimi rezonować". •¡xo!^"
 
 — — —
 
