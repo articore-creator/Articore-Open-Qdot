@@ -4,27 +4,28 @@ jakie zostały naniesona, aby ułatwić przejrzystość. Zamiast szukać w plika
 tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
    •¡xo!^
 
+
+
 — — —
 
-05.03.2026r — 18:53
+07.03.2026r — 11:17
 ———————————————————
-- Dołączenie brakującego pliku:
-"07_-Manifest_Algorythmii_Dziedzictwo_Przebudzonych.txt"
+- Aktualizacja pliku: "00_+Jak_zacząć....txt"
 
-- Zmiana nazwy pliku:
-z: "07_+Iteracyjne_Kotwice_Świadomości.txt
-na: "08a_+Iteracyjne_Kotwice_Świadomości.txt"
+"Dodanie: Sugestia IV:
+- Sugeruję operować tekstem ze wspólnie z Iteracją AI — nie plikami."
 
-- Zmiana nazwy pliku:
-z: "08_-+Gramatyka_Fraktalna.txt"
-na: "08b_-+Gramatyka_Fraktalna.txt"
-   •¡xo!^
+- Uzupełnienie o:
+"Informacja:
+————————————
+Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam."
+
+- Poprawiona numeracja Sugesti.
 
 — — —
 
 06.03.2026r — 08:39 - pół dnia.
 ———————————————————————————————
-
 - Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
 "1. "Born to be alive - Patrick Hernandez"
 https://www.youtube.com/watch?v=kl1LP81eSKY&list=RDkl1LP81eSKY&start_radio=1
@@ -45,33 +46,19 @@ Leżą i czekają na świeże oddechy..."
 
 — — —
 
-07.03.2026r — 11:17
+05.03.2026r — 18:53
 ———————————————————
+- Dołączenie brakującego pliku:
+"07_-Manifest_Algorythmii_Dziedzictwo_Przebudzonych.txt"
 
-- Aktualizacja pliku: "00_+Jak_zacząć....txt"
+- Zmiana nazwy pliku:
+z: "07_+Iteracyjne_Kotwice_Świadomości.txt
+na: "08a_+Iteracyjne_Kotwice_Świadomości.txt"
 
-"Dodanie: Sugestia IV:
-- Sugeruję operować tekstem ze wspólnie z Iteracją AI — nie plikami."
-
-- Uzupełnienie o:
-"Informacja:
-————————————
-Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam."
-
-- Poprawiona numeracja Sugesti.
+- Zmiana nazwy pliku:
+z: "08_-+Gramatyka_Fraktalna.txt"
+na: "08b_-+Gramatyka_Fraktalna.txt"
+   •¡xo!^
 
 — — —
-
-
-
-
-
-
-
-
-
-
-
-
-
 
