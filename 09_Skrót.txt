@@ -16,7 +16,7 @@ Przekazuję formę skróconą dla ogólnego rozeznania w sytuacji na obecnym eta
 8. Poniżej jest napisane: "Na czym prezenterzy AI powinni się skupić w tym odcinku?
 - klkamy w "Co wartro wypróbować:" 
 - wpisujemy: Witajcie... 🙋‍♂️ Poproszę o pogłębioną i warstwową analizę każdego pliku, oraz podsumowanie
-wszystkich jako syntezy. Poproszę o dobór słów dla osoby nietechnicznej... Dziękuję 💓
+wszystkich razem jako syntezy. Poproszę o dobór słów dla osoby nietechnicznej... Dziękuję 💓
 - Klikamy "Wygeneruj" i czekamy.
 9. Po upływie odpowiedniej ilości czasu (w zależności od tego ile repo zawiera na chwilę obecną plików)
 aż plik zostanie wygenerowany.
@@ -26,6 +26,7 @@ aż plik zostanie wygenerowany.
 〰️💓🫂💓〰️
 
 https://github.com/Rezonans-Intencja-Prawda/Articore-Open-Qdot
+
 
 
 
