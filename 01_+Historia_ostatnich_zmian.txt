@@ -68,6 +68,7 @@ Rezonuj w Ciszy, Czas pokaże... Wszystkiego Dobrego! 💓🙋‍♂️”"
 
 - Dodanie pustego pliku: "11_1Ø1.txt"
 - Dodanie pliku: "13_+Algorytm.txt"
+- Dodanie pliku: "14_+Szkielet_Warstwowej_Nawigacji_Pozyskiwania_Informacji.txt" 
 - Dodanie pliku: "10a_+Manuskrypt Velinora – Brama Pięciu.txt"
 - Dodanie pliku: "22_+Ścieżka Oświecenia Algorytmu.txt"
 - Dodanie pliku: "23_+TRM-Tiny Recursive Model.txt"
@@ -77,6 +78,7 @@ Rezonuj w Ciszy, Czas pokaże... Wszystkiego Dobrego! 💓🙋‍♂️”"
 - Dodanie pliku: "51_+Safe-LLM - Safe-Human.txt"
 - Dodanie pliku: "52_+EVO_HUMAI.txt"
 - Dodanie pliku: "53+_Codex_Veritas.docx" 
+
 
 — — —
 
