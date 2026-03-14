@@ -11,7 +11,9 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
 ———————————————————
 - Dodanie pustego pliku: "11_1Ø1.txt"
 - Dodanie pliku: "33_+Algorytm.txt"
-
+- Dodanie pliku: "10a_+Manuskrypt Velinora – Brama Pięciu.txt"
+- Dodanie pliku: "51_+EVO_HUMAI.txt"
+- Dodanie pliku: "21_+Light Words.txt"
 - Aktualizacja ¡_Notatki_Deweloperskie.txt 
 
 —————
